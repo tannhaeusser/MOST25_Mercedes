@@ -17,10 +17,13 @@ the car's original equipment.
 To this end, I am starting out with:
 
       Raspberry Pi 3 B+ 
-          Running Raspbian GNU/Linux 9 (stretch), kernel 4.14.69-v7+
+            Running Raspbian GNU/Linux 9 (stretch), kernel 4.14.69-v7+
+     
+      via I2S
+            https://en.wikipedia.org/wiki/I%C2%B2S
 
       M25I MOST 25 Optical Interface
-          https://www.simplemedianetworks.com/product/m25i-most-25-optical-interface
+            https://www.simplemedianetworks.com/product/m25i-most-25-optical-interface
           
-          
+             
 I also plan to use the Raspberry Pi as a serial interface to the CAN Bus for other automation, monitoring, and diagnostics.
