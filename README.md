@@ -15,6 +15,7 @@ an additional, bona fide node to the fiber network to add more modern capabiliti
 the car's original equipment.
 
 To this end, I am starting out with:
+
       Raspberry Pi 3 B+ 
           Running Raspbian GNU/Linux 9 (stretch), kernel 4.14.69-v7+
 
